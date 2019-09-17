@@ -1,7 +1,6 @@
-# My Data science projects
+# Data science projects
 
-This is a example repository.
+This is a repository for listing my DS, ML and AI Projects.
 
-I am testing Desktop app today.
 
-Thanks for reading this blog and git repo
+
